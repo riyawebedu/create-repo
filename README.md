@@ -1,2 +1,2 @@
 # create-repo
-my first proje
+my first project 
